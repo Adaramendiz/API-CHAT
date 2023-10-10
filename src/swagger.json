@@ -25,19 +25,19 @@
                     },
                     {
                       "example": {
-                        "firstname": "Cam",
-                        "lastname": "Nort",
-                        "email": "Canort@gmail.com",
-                        "password": "Ganar01234@."
+                        "firstname": "andres",
+                        "lastname": "aramendiz",
+                        "email": "adaramendiz@gmail.com",
+                        "password": "Thisislove123*."
                       }
                     }
                   ]
                 },
                 "example": {
-                  "firstname": "Cam",
-                  "lastname": "Nort",
-                  "email": "Canort@gmail.com",
-                  "password": "Ganar01234@."
+                  "firstname": "andres",
+                  "lastname": "aramendiz",
+                  "email": "adaramendiz@gmail.com",
+                  "password": "Thisislove123*."
                 }
               }
             },
@@ -428,10 +428,10 @@
             }
           },
           "example": {
-            "firstname": "Cam",
-            "lastname": "Nort",
-            "email": "Canort@gmail.com",
-            "password": "Ganar01234@."
+            "firstname": "andres",
+            "lastname": "aramendiz",
+            "email": "adaramendiz@gmail.com",
+            "password": "Thisislove123*."
           }
         },
         "login_user_request": {
