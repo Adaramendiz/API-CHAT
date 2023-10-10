@@ -91,15 +91,15 @@
                     },
                     {
                       "example": {
-                        "email": "baironalfonsosandovalnino@gmail.com",
-                        "password": "Ganar0123@."
+                        "email": "adaramendiz@gmail.com",
+                        "password": "Thisislove123*."
                       }
                     }
                   ]
                 },
                 "example": {
-                  "email": "baironalfonsosandovalnino@gmail.com",
-                  "password": "Ganar0123@."
+                  "email": "adaramendiz@gmail.com",
+                  "password": "Thisislove123*."
                 }
               }
             },
@@ -450,8 +450,8 @@
             }
           },
           "example": {
-            "email": "baironalfonsosandovalnino@gmail.com",
-            "password": "Ganar0123@."
+            "email": "adaramendiz@gmail.com",
+            "password": "Thisislove123*."
           }
         },
         "createconversationrequest": {
